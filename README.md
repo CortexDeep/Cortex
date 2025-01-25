@@ -50,7 +50,7 @@ We’re committed to continuous innovation and improvement. Our future plans inc
 We’d love to hear from you! Whether you have feedback, questions, or want to learn more about Cortex, here’s how to get in touch:
 
 - **Twitter**: [@cortexdeep](https://x.com/cortexdeep)
-- **Website**: [Website](deepcortex.xyz)
-- **Documentation**: [Documentation](docs.deepcortex.xyz)
+- **Website**: [Website](https://cortexdeep.xyz)
+- **Documentation**: [Documentation](https://docs.cortexdeep.xyz)
 
 Thank you for supporting Cortex as we work to create the ultimate AI-driven dashboard for the Solana blockchain!
